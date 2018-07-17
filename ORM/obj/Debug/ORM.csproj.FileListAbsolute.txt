@@ -1,0 +1,9 @@
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\bin\Debug\ORM.dll
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\bin\Debug\ORM.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\obj\Debug\ORM.dll
+D:\roak\Dot Net Project\apiServer\apiServer\ORM\obj\Debug\ORM.pdb
+D:\roak\Dot Net Project\apiServer\APISERVER\ORM\bin\Debug\Newtonsoft.Json.dll
+D:\roak\Dot Net Project\apiServer\APISERVER\ORM\bin\Debug\Newtonsoft.Json.xml
+D:\roak\Dot Net Project\apiServer\APISERVER\ORM\obj\Debug\ORM.csproj.CopyComplete

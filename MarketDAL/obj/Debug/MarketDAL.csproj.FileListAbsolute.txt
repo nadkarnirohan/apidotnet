@@ -1,0 +1,32 @@
+R:\cadc\Project\api server\apiServer\MarketDAL\bin\Debug\MarketDAL.dll
+R:\cadc\Project\api server\apiServer\MarketDAL\bin\Debug\MarketDAL.pdb
+R:\cadc\Project\api server\apiServer\MarketDAL\bin\Debug\BOL.dll
+R:\cadc\Project\api server\apiServer\MarketDAL\bin\Debug\Oracle.ManagedDataAccess.dll
+R:\cadc\Project\api server\apiServer\MarketDAL\bin\Debug\BOL.pdb
+R:\cadc\Project\api server\apiServer\MarketDAL\obj\Debug\MarketDAL.csprojResolveAssemblyReference.cache
+R:\cadc\Project\api server\apiServer\MarketDAL\obj\Debug\MarketDAL.csproj.CoreCompileInputs.cache
+R:\cadc\Project\api server\apiServer\MarketDAL\obj\Debug\MarketDAL.dll
+R:\cadc\Project\api server\apiServer\MarketDAL\obj\Debug\MarketDAL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\MarketDAL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\MarketDAL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\BOL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\Newtonsoft.Json.dll
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\BOL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\bin\Debug\Newtonsoft.Json.xml
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\obj\Debug\MarketDAL.csprojResolveAssemblyReference.cache
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\obj\Debug\MarketDAL.csproj.CoreCompileInputs.cache
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\obj\Debug\MarketDAL.csproj.CopyComplete
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\obj\Debug\MarketDAL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\MarketDAL\obj\Debug\MarketDAL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\MarketDAL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\MarketDAL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\BOL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\BOL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\obj\Debug\MarketDAL.csprojResolveAssemblyReference.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\obj\Debug\MarketDAL.csproj.CoreCompileInputs.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\obj\Debug\MarketDAL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\MarketDAL\obj\Debug\MarketDAL.pdb

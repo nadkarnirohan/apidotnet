@@ -1,0 +1,24 @@
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\BLL.dll.config
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\BLL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\BLL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\BOL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\MarketDAL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\BOL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\bin\Debug\MarketDAL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\obj\Debug\BLL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BLL\obj\Debug\BLL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\BLL.dll.config
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\BLL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\BLL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\BOL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\MarketDAL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\BOL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\bin\Debug\MarketDAL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\obj\Debug\BLL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BLL\obj\Debug\BLL.pdb

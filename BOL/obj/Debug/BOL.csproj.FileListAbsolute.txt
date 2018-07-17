@@ -1,0 +1,23 @@
+R:\cadc\Project\api server\apiServer\BOL\bin\Debug\BOL.dll
+R:\cadc\Project\api server\apiServer\BOL\bin\Debug\BOL.pdb
+R:\cadc\Project\api server\apiServer\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+R:\cadc\Project\api server\apiServer\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+R:\cadc\Project\api server\apiServer\BOL\obj\Debug\BOL.dll
+R:\cadc\Project\api server\apiServer\BOL\obj\Debug\BOL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\bin\Debug\BOL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\bin\Debug\BOL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\bin\Debug\Newtonsoft.Json.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\bin\Debug\Newtonsoft.Json.xml
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\obj\Debug\BOL.csproj.CopyComplete
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\obj\Debug\BOL.dll
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\obj\Debug\BOL.pdb
+D:\roak\Dot Net Project\apiServer\apiServer\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\bin\Debug\BOL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\bin\Debug\BOL.pdb
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\obj\Debug\BOL.dll
+C:\Users\RohAn\Desktop\project help\APISERVER\APISERVER\BOL\obj\Debug\BOL.pdb
